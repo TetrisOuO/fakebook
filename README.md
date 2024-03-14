@@ -1,4 +1,6 @@
-# fake
+# Fakebook
+純屬個人Next.js Tailwindcss練習
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
