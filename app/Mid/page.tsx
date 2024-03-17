@@ -1,3 +1,3 @@
 export default function Mid() {
-  return <div>i'm Mid</div>;
+  return <div className="">i'm Mid</div>;
 }
